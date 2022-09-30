@@ -61,7 +61,7 @@ body {
   font-weight: 8px;
   color: #0987b9;
 }
-.text .btn {
+.text #btn {
   display: inline-block;
   border-radius: 8px;
   padding: 20px;
